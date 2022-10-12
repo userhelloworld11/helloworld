@@ -1,13 +1,12 @@
-{
-"user": [
-{
-"uname": "user1",
-"pass":"pass1"
-},
-{
-"uname":"user2"
-"pass":"pass2"
-}
-]
+{ 
+  "data": [
+    {
+      "id": 1,
+      "uname": "user1"
+    }
+   ],
+  "profile":{
+    "name": "typicode"
+  }
 }
 
