@@ -1,21 +1,14 @@
-
-
-  {
-    "id": 1,
-    "Name": "Susan",
-    "Gender": "Female",
-    "NRIC": "S2382392J"
-  },
-  {
-    "id": 2,
-    "Name": "James",
-    "Gender": "Male",
-    "NRIC": "T2039384W"
-  },
-  {
-    "id": 3,
-    "Name": "Tom",
-    "Gender": "Male",
-    "NRIC": "S6829933J"
+{
+  "posts": [
+    { "id": 1, "name": "James","gender": "Male" },
+    { "id": 2, "name": "Tom","gender": "Male"  },
+    { "id": 3, "name": "Mandy","gender": "Female"  }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "userhelloworld11"
   }
-
+}
