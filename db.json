@@ -1,26 +1,21 @@
 
-{
-  "employees": [
-    {
-      "id": 1,
-      "first_name": "Sebastian",
-      "last_name": "Eschweiler",
-      "email": "sebastian@codingthesmartway.com",
-      "gender": "male"
-    },
-    {
-      "id": 2,
-      "first_name": "Steve",
-      "last_name": "Palmer",
-      "email": "steve@codingthesmartway.com",
-       "gender": "male"
-    },
-    {
-      "id": 3,
-      "first_name": "Ann",
-      "last_name": "Smith",
-      "email": "ann@codingthesmartway.com"
-       "gender": "female"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "Name": "Susan",
+    "Gender": "Female",
+    "NRIC": "S2382392J"
+  },
+  {
+    "id": 2,
+    "Name": "James",
+     "Gender": "Male",
+    "NRIC": "T2039384W"
+  },
+  {
+    "id": 3,
+    "Name": "Tom",
+     "Gender": "Male",
+    "NRIC": "S6829933J"
+  }
+]
