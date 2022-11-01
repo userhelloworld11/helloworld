@@ -1,16 +1,26 @@
 
-
 {
-  "data": [
+  "employees": [
     {
       "id": 1,
-      "uname": "user1",
-      "pass": "pass1"
+      "first_name": "Sebastian",
+      "last_name": "Eschweiler",
+      "email": "sebastian@codingthesmartway.com",
+      "gender": "male"
     },
     {
-       "id": 2,
-      "uname": "user2",
-      "pass": "pass2"
+      "id": 2,
+      "first_name": "Steve",
+      "last_name": "Palmer",
+      "email": "steve@codingthesmartway.com",
+       "gender": "male"
+    },
+    {
+      "id": 3,
+      "first_name": "Ann",
+      "last_name": "Smith",
+      "email": "ann@codingthesmartway.com"
+       "gender": "female"
     }
   ]
 }
