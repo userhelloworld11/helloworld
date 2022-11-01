@@ -9,13 +9,13 @@
   {
     "id": 2,
     "Name": "James",
-     "Gender": "Male",
+    "Gender": "Male",
     "NRIC": "T2039384W"
   },
   {
     "id": 3,
     "Name": "Tom",
-     "Gender": "Male",
+    "Gender": "Male",
     "NRIC": "S6829933J"
   }
 ]
