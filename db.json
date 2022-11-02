@@ -1,8 +1,17 @@
 {
   "posts": [
-    { "id": 1, "name": "James","gender": "Male" },
-    { "id": 2, "name": "Tom","gender": "Male"  },
-    { "id": 3, "name": "Mandy","gender": "Female"  }
+    { "id": 1, "date": "January","Revenue": 90 , "Profits": 60 , "expenses": 30},
+    { "id": 2, "date": "February","Revenue": 120 , "Profits": 100 , "expenses": 20  },
+    { "id": 3, "date": "March","Revenue": 140 , "Profits": 110 , "expenses": 30  },
+    { "id": 3, "date": "April","Revenue": 150 , "Profits": 120 , "expenses": 30  },
+    { "id": 3, "date": "May","Revenue": 140 , "Profits": 110 , "expenses": 30  },
+    { "id": 3, "date": "June","Revenue": 170 , "Profits": 120 , "expenses": 50  },
+    { "id": 3, "date": "July","Revenue": 180 , "Profits": 140 , "expenses": 40  },
+    { "id": 3, "date": "August","Revenue": 190 , "Profits": 160 , "expenses": 30  },
+    { "id": 3, "date": "September","Revenue": 220 , "Profits": 190 , "expenses": 30  },
+    { "id": 3, "date": "October","Revenue": 250 , "Profits": 220 , "expenses": 30  },
+    { "id": 3, "date": "November","Revenue": 270 , "Profits": 240 , "expenses": 30  },
+    { "id": 3, "date": "December","Revenue": 300 , "Profits": 250 , "expenses": 50  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
