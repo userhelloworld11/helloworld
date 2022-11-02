@@ -1,6 +1,6 @@
 {
   "posts": [
-    { "id": 1, "date": "January","Revenue": 90 , "Profits": 60 , "expenses": 30},
+    { "id": 1, "date": "January","Revenue": 90 , "Profits": "60" , "expenses": 30},
     { "id": 2, "date": "February","Revenue": 120 , "Profits": 100 , "expenses": 20  },
     { "id": 3, "date": "March","Revenue": 140 , "Profits": 110 , "expenses": 30  },
     { "id": 3, "date": "April","Revenue": 150 , "Profits": 120 , "expenses": 30  },
