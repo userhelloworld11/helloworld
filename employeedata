@@ -1,0 +1,22 @@
+{
+  "posts": [
+    { "id": 1, "employee_name": "Tiger Nixon","employee_age": 61 , "status": "success" , "employee_salary": 3200},
+    { "id": 2, "employee_name": "Garrett Winters","employee_age": 63 , "status": "success" , "employee_salary": 4000},
+    { "id": 3, "employee_name": "Wilson Tan","employee_age": 50 , "status": "success" , "employee_salary": 5390},
+    { "id": 4, "employee_name": "Emily Lim Jian","employee_age": 30 , "status": "success" , "employee_salary": 2400},
+    { "id": 5, "employee_name": "Mary Lee Mei Yu","employee_age": 24 , "status": "success" , "employee_salary": 2000},
+    { "id": 6, "employee_name": "Colleen Flynn","employee_age": 45 , "status": "success" , "employee_salary": 5030},
+    { "id": 7, "employee_name": "Tatyana Marshall","employee_age": 21 , "status": "success" , "employee_salary": 3304},
+    { "id": 8, "employee_name": "Michelle Anya","employee_age": 29 , "status": "success" , "employee_salary": 3689},
+    { "id": 9, "employee_name": "Paul Ryan","employee_age": 24 , "status": "success" , "employee_salary": 2837},
+    { "id": 10, "employee_name": "Yuri","employee_age": 35 , "status": "success" , "employee_salary": 3666},
+    { "id": 11, "employee_name": "Caesar Vance","employee_age": 21 , "status": "success" , "employee_salary": 4500}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "userhelloworld11"
+  }
+}
