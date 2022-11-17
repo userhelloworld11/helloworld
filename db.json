@@ -1,17 +1,17 @@
 {
   "posts": [
-    { "id": 1, "date": "January","Revenue": 10000 , "Profits": 7000 , "expenses": 3000},
-    { "id": 2, "date": "February","Revenue": 12030 , "Profits": 8030 , "expenses": 4000  },
-    { "id": 3, "date": "March","Revenue": 13002 , "Profits": 12002 , "expenses": 1000  },
-    { "id": 3, "date": "April","Revenue": 13900 , "Profits": 9670 , "expenses": 4230  },
+    { "id": 1, "date": "Jan","Revenue": 10000 , "Profits": 7000 , "expenses": 3000},
+    { "id": 2, "date": "Feb","Revenue": 12030 , "Profits": 8030 , "expenses": 4000  },
+    { "id": 3, "date": "Mar","Revenue": 13002 , "Profits": 12002 , "expenses": 1000  },
+    { "id": 3, "date": "Apr","Revenue": 13900 , "Profits": 9670 , "expenses": 4230  },
     { "id": 3, "date": "May","Revenue": 14000 , "Profits": 8651 , "expenses": 5349  },
-    { "id": 3, "date": "June","Revenue": 14589 , "Profits": 9539 , "expenses": 5050  },
-    { "id": 3, "date": "July","Revenue": 15000 , "Profits": 8770 , "expenses": 6230  },
-    { "id": 3, "date": "August","Revenue": 16000 , "Profits": 12756  , "expenses": 3244  },
-    { "id": 3, "date": "September","Revenue": 17000 , "Profits": 15000 , "expenses": 2000  },
-    { "id": 3, "date": "October","Revenue": 18203 , "Profits": 14203 , "expenses": 4000  },
-    { "id": 3, "date": "November","Revenue": 19222 , "Profits": 15413 , "expenses": 3809  },
-    { "id": 3, "date": "December","Revenue": 20100 , "Profits": 16101 , "expenses": 3999  }
+    { "id": 3, "date": "Jun","Revenue": 14589 , "Profits": 9539 , "expenses": 5050  },
+    { "id": 3, "date": "Jul","Revenue": 15000 , "Profits": 8770 , "expenses": 6230  },
+    { "id": 3, "date": "Aug","Revenue": 16000 , "Profits": 12756  , "expenses": 3244  },
+    { "id": 3, "date": "Sep","Revenue": 17000 , "Profits": 15000 , "expenses": 2000  },
+    { "id": 3, "date": "Oct","Revenue": 18203 , "Profits": 14203 , "expenses": 4000  },
+    { "id": 3, "date": "Nov","Revenue": 19222 , "Profits": 15413 , "expenses": 3809  },
+    { "id": 3, "date": "Dec","Revenue": 20100 , "Profits": 16101 , "expenses": 3999  }
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
